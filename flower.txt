@@ -1,3 +1,7 @@
 iam a good person
 
+<<<<<<< HEAD
 iam intelligent`
+=======
+iam a worst person
+>>>>>>> titanic
